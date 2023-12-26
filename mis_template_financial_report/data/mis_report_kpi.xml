@@ -103,5 +103,6 @@
         <field name="accumulation_method">sum</field>
         <field name="sequence">0</field>
         <field name="report_id" ref="report_bs" />
+        <field name="split_after" eval="True" />
     </record>
 </odoo>
